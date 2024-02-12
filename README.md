@@ -7,4 +7,9 @@
 -Nombre de los integrantes
 -Imagen jpg o png
 -Firmada por el empresario o decente ageno a la UTNG, agradeciendo la contrubucion de la UTNG
--Hoja membretada
+-Hoja membretada (Logo de la marca, direccion y contacto)
+
+## Lista del Hardware utilizado
+| ID | Componentes | Descripción | Imagen | Cantidad |
+|----|-------------|-------------|--------|----------|
+|    |             |             |        |          |
