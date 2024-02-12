@@ -15,9 +15,9 @@
 |    |             |             |        |          |
 
 ## Lista del Software utilizado
-| ID | Software |  | Imagen | Cantidad |
-|----|----------|-------------|--------|----------|
-|    |          |             |        |          |
+| ID | Software | Version | Tipo |
+|----|----------|---------|------|
+|    |          |         |      |
 
 ## Visión
 
@@ -30,3 +30,12 @@
 | ID | Historia de usuario | Prioridad | Estimacion | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
 |    |                     |           |            |               |             |
+
+## Prototipo en dibujo
+- Imagen al iniciar el desarrollo
+
+# Evidencias de funcionamiento
+- Flujos de node red
+- Captura de las pantallas del proyecto DASHBOARD y pantalla ESP32
+- Video demostrativo de las funcionalidades del proyecto
+- Codigo fuente (prohibido poner comprimidos)
