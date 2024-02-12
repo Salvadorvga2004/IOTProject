@@ -9,7 +9,12 @@
 -Firmada por el empresario o decente ageno a la UTNG, agradeciendo la contrubucion de la UTNG
 -Hoja membretada (Logo de la marca, direccion y contacto)
 
-## Lista del Hardware utilizado
+## Lista de Hardware utilizado
 | ID | Componentes | Descripción | Imagen | Cantidad |
 |----|-------------|-------------|--------|----------|
 |    |             |             |        |          |
+
+## Lista del Software utilizado
+| ID | Software |  | Imagen | Cantidad |
+|----|----------|-------------|--------|----------|
+|    |          |             |        |          |
