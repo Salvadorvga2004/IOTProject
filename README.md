@@ -18,3 +18,15 @@
 | ID | Software |  | Imagen | Cantidad |
 |----|----------|-------------|--------|----------|
 |    |          |             |        |          |
+
+## Visión
+
+## Conexiones
+- Imagenes de Wokwi, Fritzing, o de otro software que me permita mostrar las conexiones del circuito
+- Raspberry Pi
+- ESP32
+
+## Funcionalidades
+| ID | Historia de usuario | Prioridad | Estimacion | Como probarlo | Responsable |
+|----|---------------------|-----------|------------|---------------|-------------|
+|    |                     |           |            |               |             |
